@@ -1,0 +1,9 @@
+C:\Users\NobreSistemas\Dropbox\Desenvolvimento\C#\validacaoIEdllSintegra\validacaoIEdllSintegra\bin\Debug\validacaoIEdllSintegra.exe.config
+C:\Users\NobreSistemas\Dropbox\Desenvolvimento\C#\validacaoIEdllSintegra\validacaoIEdllSintegra\bin\Debug\validacaoIEdllSintegra.exe
+C:\Users\NobreSistemas\Dropbox\Desenvolvimento\C#\validacaoIEdllSintegra\validacaoIEdllSintegra\bin\Debug\validacaoIEdllSintegra.pdb
+C:\Users\NobreSistemas\Dropbox\Desenvolvimento\C#\validacaoIEdllSintegra\validacaoIEdllSintegra\obj\Debug\validacaoIEdllSintegra.csprojResolveAssemblyReference.cache
+C:\Users\NobreSistemas\Dropbox\Desenvolvimento\C#\validacaoIEdllSintegra\validacaoIEdllSintegra\obj\Debug\validacaoIEdllSintegra.frmPrincipal.resources
+C:\Users\NobreSistemas\Dropbox\Desenvolvimento\C#\validacaoIEdllSintegra\validacaoIEdllSintegra\obj\Debug\validacaoIEdllSintegra.Properties.Resources.resources
+C:\Users\NobreSistemas\Dropbox\Desenvolvimento\C#\validacaoIEdllSintegra\validacaoIEdllSintegra\obj\Debug\validacaoIEdllSintegra.csproj.GenerateResource.Cache
+C:\Users\NobreSistemas\Dropbox\Desenvolvimento\C#\validacaoIEdllSintegra\validacaoIEdllSintegra\obj\Debug\validacaoIEdllSintegra.exe
+C:\Users\NobreSistemas\Dropbox\Desenvolvimento\C#\validacaoIEdllSintegra\validacaoIEdllSintegra\obj\Debug\validacaoIEdllSintegra.pdb
